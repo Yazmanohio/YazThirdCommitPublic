@@ -10,7 +10,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     </head>
     <body>
         <?php
-      echo "Hello, world! This is my first PHP project!";   
+      echo "Hello, world! This2 is my first PHP project!";   
         // put your code here
         ?>
     </body>
